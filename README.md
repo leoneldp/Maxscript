@@ -1,1 +1,1 @@
-# Maxscript1
+# Maxscript
